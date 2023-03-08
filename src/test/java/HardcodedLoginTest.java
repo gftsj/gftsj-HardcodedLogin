@@ -69,7 +69,7 @@ public class HardcodedLoginTest {
     }
     /**
      * If a user tries to login with username "user" and password "123456", login should return "false"
-     * (do not permit the login)
+     * (do not permit the login) (ERASE ME)
      */
     @Test
     public void loginTest6(){
